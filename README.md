@@ -8,7 +8,9 @@ The hook should be wired to pin 16 on the raspberry pi, although that can be eas
 The dial isn't really used.
 
 Some folders will need pre-prepared:
+
 Place a pre-record.wav in a folder named intro-msg next to python script.
+
 Files will be recorded as .wav into a folder named audio next to the python script.
 
 
